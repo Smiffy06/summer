@@ -1,0 +1,21 @@
+Category,SubCategory,Sales,Profit,Discount
+Furniture,Chair,550,200,50
+Stationery,Pencils,650,100,10
+Furniture,Sofa,770,550,20
+Food,Burger,690,250,30
+Food,Pasta,710,90,70
+Stationery,Pencil Box,690,350,10
+Furniture,Table,540,250,20
+Food,Bubblegum,860,180,25
+BathEssentials,Shampoo,720,130,15
+Crockery,Pan,360,110,25
+Crockery,Dining Sets,450,500,25
+Crockery,Cutlery Set,620,130,30
+BathEssentials,Body Wash,460,80,10
+Clothing,Socks,250,70,20
+Food,Ice Cream,430,120,10
+Stationery,Erasers,880,170,10
+Furniture,Beds,790,230,30
+Stationery,Markers,430,220,20
+Clothing,Shirts,310,100,15
+BathEssentials,Body Lotion,720,90,10
